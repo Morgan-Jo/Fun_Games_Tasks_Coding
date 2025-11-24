@@ -21,7 +21,7 @@ FlexRate is a small Python application that converts amounts between currencies 
 
 1. Clone or download the repository:
 
-git clone [https://github.com/Morgan-Jo/Number-Converter-Fun/Flexrate.git](https://github.com/Morgan-Jo/Number-Converter-Fun/tree/main/Flexrate)]
+git clone [https://github.com/Morgan-Jo/Number-Converter-Fun/Flexrate.git](https://github.com/Morgan-Jo/Number-Converter-Fun/tree/main/Flexrate)
 cd flexrate
 
 2. Install dependencies:
