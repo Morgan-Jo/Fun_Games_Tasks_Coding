@@ -24,3 +24,12 @@ pyscicalc/
 
 Python 3.10 or later
 
+## Installation
+
+1. Clone or download the repository:
+
+git clone [https://github.com/Morgan-Jo/Fun_Games_Tasks_Coding/pyscicalc.git](https://github.com/Morgan-Jo/Fun_Games_Tasks_Coding/tree/main/pyscicalc)
+
+cd pyscicalc
+
+
