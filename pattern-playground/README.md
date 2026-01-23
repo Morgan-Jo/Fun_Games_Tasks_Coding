@@ -19,6 +19,7 @@ Great as a warm-up project, a mini “clean code” exercise, or a quick portfol
 pattern-playground/
 ├── README.md
 └── pattern_playground.py
+```
 
 ## Requirements
 
