@@ -19,6 +19,7 @@ It’s intentionally small, readable, and easy to extend.
 terminal-quest/
 ├── README.md
 └── terminal_quest.py
+```
 
 ## Requirements
 - Python 3.9+ (no external libraries)
@@ -26,7 +27,7 @@ terminal-quest/
 ## Run
 ```bash
 python terminal_quest.py
-
+```
 ## Author
 
 Morgan J. Tonner
