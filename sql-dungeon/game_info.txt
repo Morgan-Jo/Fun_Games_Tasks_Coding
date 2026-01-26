@@ -1,0 +1,16 @@
+Project: SQL Dungeon
+Version: 1.0.0
+
+STORY:
+The "Root User" has corrupted the dungeon. Only a Master of Data can
+re-link the fragmented tables to find the path forward.
+
+GAMEPLAY RULES:
+1. Every interaction is a SELECT, UPDATE, or DELETE.
+2. Typos in SQL syntax result in damage to the player.
+3. Logical errors (returning the wrong data) result in a "Missed Attack."
+
+DEVELOPER NOTE:
+This project demonstrates Python-SQLite integration and the ability
+to design relational schemas that mirror real-world business logic
+within a gamified context.

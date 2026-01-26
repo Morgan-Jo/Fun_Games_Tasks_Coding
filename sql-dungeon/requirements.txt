@@ -1,0 +1,8 @@
+# Python Requirements for SQL Dungeon
+# Install via: pip install -r requirements.txt
+
+# For colored terminal output (highly recommended for games)
+colorama==0.4.6
+
+# Database
+# sqlite3 is part of the Python Standard Library (no pip install needed)

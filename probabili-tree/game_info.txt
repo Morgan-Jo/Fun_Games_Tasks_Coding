@@ -1,0 +1,24 @@
+============================================================
+GAME INFO: PROBABILI-TREE
+============================================================
+In the year 2045, the climate is volatile. As a data analyst
+trapped in the wild, you must use your portable computer to 
+analyze local sensor data.
+
+THE CORE MECHANIC:
+Every "Turn," the game generates a Normal Distribution of 
+'Risk Factors.' 
+
+- If the distribution is 'Tight' (Low Variance), the environment 
+  is predictable. 
+- If the distribution is 'Wide' (High Variance), a "Black Swan" 
+  event (extreme outlier) is likely to end your game.
+
+RULES:
+1. FORAGE: High reward, but if you hit a risk value > 2.0, you die.
+2. SHELTER: Low reward, reduces current risk mean by 0.5.
+3. REST: Skips the turn to wait for a better distribution.
+
+WIN CONDITION:
+Survive 20 days (turns) until the rescue team arrives.
+============================================================
