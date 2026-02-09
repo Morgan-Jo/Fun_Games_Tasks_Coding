@@ -1,0 +1,6 @@
+# .gitignore
+db/*.db
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
